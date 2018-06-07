@@ -13,3 +13,6 @@ pip-selfcheck.json
 
 #PyCharm
 .idea/
+__pycache__/
+
+keras/
